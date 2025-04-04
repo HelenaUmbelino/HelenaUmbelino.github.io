@@ -1,0 +1,81 @@
+body{
+    background-color: #0D0907;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 11.1%;
+    height: 20vh;
+}
+.logo{
+    width: 60%;
+    height: 10vh;
+}
+.search{
+    width: 100%;
+    height: 20%;
+    border-radius: 20px;
+    text-align: center;
+}
+.menu{
+    text-align: center;
+}
+.text{
+    padding-left: 8%;
+    color: #BDBEE9;
+    text-align: left;
+    
+}
+.text2{
+    padding-left: 12%;
+    color: white;
+    text-align: left;
+}
+.text3{
+    color: white;
+}
+.fim{
+
+    background-color:  #0F1737;
+}
+.se{
+    width: 40%;
+}
+.fundo{
+    background-image: url(image\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 120%;
+}
+.fundo2{
+    background-image: url(Group\ 6.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 77vh;
+}
+.fundo3{
+    background-image: url(Group\ 7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 77vh;
+}
+.botao{
+    border-radius: 20px;
+    background-color: #65558F;
+    color: white;
+}
+.produto{
+    text-align: center;
+}
+.preto{
+    background-color: black;
+}
+
+.center{
+    text-align: center;
+}
+.roxo{
+    color: #BDBEE9;
+}
