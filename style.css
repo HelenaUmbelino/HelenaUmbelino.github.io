@@ -79,3 +79,15 @@ td{
 .roxo{
     color: #BDBEE9;
 }
+.white{
+    color: white;
+}
+.link{
+    text-decoration: none;
+}
+.top{
+    vertical-align: top;
+}
+.margin{
+    margin-left: 3%;
+}
